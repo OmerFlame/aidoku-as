@@ -1,7 +1,7 @@
 {
   "name": "aidoku-as",
   "version": "1.0.0",
-  "author": "Sitty",
+  "author": "Sitty and OmerFlame",
   "license": "GPLv3",
   "description": "AssemblyScript wrapper for Aidoku sources",
   "ascMain": "src/index.ts",
